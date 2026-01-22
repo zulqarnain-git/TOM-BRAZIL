@@ -46,7 +46,7 @@ export const Navbar = () => {
               </Link>
             ))}
             <Button variant="neon" size="sm" asChild>
-              <a href="https://www.amazon.com/dp/B085RTHZCR" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.amazon.com/IMPLEMENTING-AGILE-INNOVATION-MANAGEMENT-SYSTEM/dp/B085RTHZCR?ref_=ast_author_dp&th=1&psc=1" target="_blank" rel="noopener noreferrer">
                 Buy on Amazon
               </a>
             </Button>

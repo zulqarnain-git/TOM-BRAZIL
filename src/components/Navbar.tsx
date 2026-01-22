@@ -46,7 +46,7 @@ export const Navbar = () => {
               </Link>
             ))}
             <Button variant="neon" size="sm" asChild>
-              <a href="https://amazon.com/author/tom-brazil" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.amazon.com/dp/B085RTHZCR" target="_blank" rel="noopener noreferrer">
                 Buy on Amazon
               </a>
             </Button>
